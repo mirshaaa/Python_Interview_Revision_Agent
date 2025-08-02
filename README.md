@@ -41,7 +41,7 @@ This agent is structured using the **4-layer architecture**:
 | `final_agent_document.md` | Full approach doc (Markdown version) |
 | `Python Interview Revision Agent – Final Report by Mirsha Kudukkan.pdf` | Optional PDF version of the same |
 | `README.md` | This file |
-| *(optional)* `.py` file | If you'd like to turn this into an actual script later |
+ 
 
 ---
 
